@@ -5,7 +5,9 @@ Hardware part of the identification system
 ## Connection and data flow
 
 `Tag`
- ***
+
+`***`
+
 `RC522` reader -> `NodeMCU v3` -> wifi -> Server (gets `Tag` id)
 
 ```
